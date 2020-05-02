@@ -11,5 +11,6 @@ public class OperatorUnay {
         System.out.println(i);
         i*=3;
         System.out.println(i);
+
     }
 }
